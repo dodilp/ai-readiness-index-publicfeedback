@@ -19,7 +19,6 @@ An assessment combines the **dataset**, an **intended-use profile** (use case, r
 ## Two motivating use cases
 
 - **One dataset, different decisions.** In a synthetic prototype using 204 records, the same dataset met an illustrative aggregate reporting profile (99.67/100) but was blocked under an illustrative individual lending-decision profile (82.60/100; six unmet required conditions). These numbers demonstrate the method, not measured real-world safety or regulatory suitability.
-- 
 - **Readiness before AI pipeline adoption.** Detect missing evidence, data-quality problems, or failed required controls before relying on data for an AI workflow. A strong aggregate score cannot override an unmet mandatory condition.
 
 ## Relation to existing efforts
