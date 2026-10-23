@@ -29,14 +29,10 @@ This project is intended to **complement**, not replace, ISO/IEC 5259, the NIST 
 
 **Early-stage research demonstrator; independent validation pending.** Existing prototype observations use synthetic data and illustrative, uncalibrated profiles. This public repository contains a conceptual overview only; it does not publish the prototype source or claim certification, safety, or legal compliance.
 
-## Learn more
-
-- [Public overview webpage](docs/index.html) (also deployable with GitHub Pages)
-- [Research questions](docs/RESEARCH_QUESTIONS.md)
 
 ## Collaboration
 
-Feedback from contributors and other research communities is welcome, particularly around intended-use profiles, measurable dataset criteria, evidence provenance, evaluation protocols, and alignment with existing efforts.
+Feedback from contributors and other research communities is welcome, particularly around intended-use profiles, dataset opt-in consent controls, measurable dataset criteria, evidence provenance, evaluation protocols, and alignment with existing efforts.
 
 ## Licensing and provenance
 
